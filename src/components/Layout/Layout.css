@@ -1,0 +1,93 @@
+.container{
+    display: flex;
+    justify-content: center;
+  }
+  
+  .container2{
+    padding: 10px;
+    display: flex;
+    justify-content: center;
+  }
+  
+  .application{
+    background-color: thistle;
+  }
+  
+  .winner{
+    border: 2px solid black;
+    border-radius: 2px;
+    padding: 1em;
+    color: white;
+    background-color: black;
+  }
+
+  .result-box {
+    border: 2px solid black;
+    border-radius: 2px;
+    margin-top: 80px;
+    color: red;
+  }
+  
+  .display1{
+    font-size: 2em;
+    color: royalblue;
+  }
+  
+  .display{
+    font-size: 2em;
+    color:green;
+  }
+  
+  .header{
+    padding: 1em;
+    background-color: black;
+    color: white;
+  }
+  
+  .notification{
+    border: 2px solid burlywood;
+    border-radius: 50%;
+    padding: 0.8em;
+    background-color: black;
+    color: white;
+    font-size: 3em;
+    margin: 1.1em;
+    margin-top: 4%;
+    margin-bottom: 3%;
+    width:7%;
+    position: relative;
+  }
+  
+  .reset{
+    padding: 1em;
+    font-size: 1.2em;
+    background-color: rgb(63, 12, 12);
+    color: white;
+    cursor: pointer;
+  }
+  
+  .reset:hover{
+    padding: 1em;
+    font-size: 1.2em;
+    background-color: rgb(202, 130, 130);
+    color: white;
+  }
+  
+  
+  
+  
+  .notification .badge {
+    position: absolute;
+    font-size: 0.5em;
+    top: -10px;
+    right: -10px;
+    padding: 5px 15px;
+    border-radius: 50%;
+    background: red;
+    color: white;
+  }
+  
+  .winner{
+    font-size: 2em;
+  }
+  

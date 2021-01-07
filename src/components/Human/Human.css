@@ -1,0 +1,17 @@
+.human{
+    border: 2px solid black;
+    border-radius: 15px;
+    margin: 10px;
+    padding: 1em;
+    background-color: rgb(5, 43, 5);
+    color: white;
+    width: 20em;
+    height: 20em;
+}
+
+.emoji{
+    font-size: 7em;
+}
+.text{
+    font-size: 2em;
+}

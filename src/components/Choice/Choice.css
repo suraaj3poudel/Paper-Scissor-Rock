@@ -1,0 +1,16 @@
+.choice{
+    border: 2px solid black;
+    border-radius: 15px;
+    padding: 30px;
+    font-size: 5em;
+    margin: 25px;
+    width: 7%;
+    align-items: center;
+}
+
+.choice:hover{
+    border: 2px solid red;
+    background-color: black;
+    color: white;
+    cursor: pointer;
+}
